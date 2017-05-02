@@ -17,4 +17,4 @@ c.数据库设计
 
 - 数据库表的设计：表名article用来存放文章(id编号,title标题,author作者,description简介,content内容,dateline发布时间)
 
-d.系统架构设计**:目录规划,程序文件规划及命名
+d.系统架构设计:目录规划,程序文件规划及命名
